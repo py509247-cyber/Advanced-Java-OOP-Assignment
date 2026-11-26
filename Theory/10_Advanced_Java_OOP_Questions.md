@@ -1,7 +1,7 @@
 # Advanced Java OOP Assignment
 ## Part 2 – Theory Questions and Answers
 
-**Subject:** Object-Oriented Programming using Java
+**Subject:** Object-Oriented Programming using JAVA
 
 ### Q1. What are the four main principles of Object-Oriented Programming (OOP)?
 
